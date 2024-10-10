@@ -1,0 +1,23 @@
+{
+  "name": "hhead-to-garminconnect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deniszomarev/hhead-to-garminconnect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deniszomarev/hhead-to-garminconnect/issues"
+  },
+  "homepage": "https://github.com/deniszomarev/hhead-to-garminconnect#readme",
+  "dependencies": {
+    "@garmin/fitsdk": "^21.141.0"
+  }
+}
