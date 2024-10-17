@@ -1,0 +1,21 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+  .card {
+    display: flex;
+    flex-direction: column;
+    height: 35rem;
+    width: 25rem;
+    background-color: #f8f9f9;
+    img {
+      width: auto;
+    }
+    &-body {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+  }
+}
